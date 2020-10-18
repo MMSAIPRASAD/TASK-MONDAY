@@ -1,0 +1,38 @@
+.new {
+    width:1525px;
+    height:800px;
+}
+
+.center {
+  margin-top:500px;
+    
+}
+
+.center1 {
+    margin-bottom:300px;
+}
+.center2 {
+    background-color: tomato;
+    color:white;
+    font-size:15px;
+    
+    
+}
+.center2:hover {
+    background-color:skyblue;
+}
+
+.but{
+    border: 3px solid white;
+    border-color: white;
+    border-radius: 50%;
+    height:10px;
+}
+
+.one {
+    border:3px solid white;
+    border-radius:50%;
+    height:40px;
+    width:40px;
+    margin-top:300px;
+}

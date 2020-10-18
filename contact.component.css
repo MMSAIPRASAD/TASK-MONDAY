@@ -1,0 +1,23 @@
+.area {
+    width:500px;
+    height:180px;
+}
+
+.class3 {
+    height:50px;
+}
+
+.four {
+    text-align:center;
+}
+
+.new{
+    background-color:lightgrey;
+}
+
+.sub {
+    width:500px;
+    background-color: black;
+    color:white;
+    height:40px;
+}

@@ -1,0 +1,29 @@
+<div class="container" id="contact">
+    <h2 class="four">CONTACT US</h2>
+    <p class="four" style="color:red;">SEND US A MESSAGE</p>
+    <div class="row">
+        <div class="col-6">
+
+<form [formGroup]="Form">
+    <div class="form-group">
+        <input type="text" placeholder="Your Name" class="form-control class3 new" formControlName="NAME">
+    </div>
+
+    <div class="form-group ">
+        <input type="text" placeholder="Your Email" class="form-control class3 new" formControlName="Email">
+    </div>
+
+    <div class="form-group">
+        <input type="text" placeholder="Subject" class="form-control class3 new" formControlName="Subject">
+    </div>
+
+
+</form>
+</div>
+
+<div class="col-6">
+    <textarea class="area new"placeholder="Your Message"></textarea>
+    <button type="submit" class="sub" >SUBMIT</button>
+</div>
+</div>
+</div>

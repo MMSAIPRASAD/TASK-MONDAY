@@ -1,0 +1,42 @@
+.bg {
+    background-image: Url("assets/unnamed (1).jpg");
+    background-repeat: no-repeat;
+    opacity:2;
+    background-size: cover;
+    font-family: 'Jura';
+}
+.container-fluid {
+     height:450px;
+}
+.serve {
+    text-align:center;
+    margin-top:50px;
+    color:white;
+}
+
+.new5{
+    font-size:22px;
+    color:blue;
+}
+
+.new6{
+    font-size:18px;
+    color:white;
+}
+
+.serve1{
+   
+    color:white;
+    text-align:center;
+}
+
+.body{
+    font-family: 'Jura';
+    font-size:22px;
+}
+
+.rad{
+    border: 3px solid white;
+    border-color: white;
+    border-radius: 90%;
+}

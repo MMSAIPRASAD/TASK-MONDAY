@@ -1,0 +1,55 @@
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:50%;
+    width:100%;
+    position:absolute;
+}
+
+.border1 {
+    border:2px solid red;
+    background: black;
+}
+
+.container-fluid {
+    height:700px;
+}
+
+.container {
+    border:2px solid red;
+    height:20px;
+}
+
+.new {
+    margin-top:370px;
+    background: black;
+    height:300px;
+    color:white;
+    
+
+    
+    
+}
+
+.new1{
+    margin-top:90px;
+    border:1px solid black;
+    border-width: 1px;
+    text-align:center;
+    background-color:#2e2e2e;
+    margin-left:100px;
+    height:100px;
+    float:left;
+}
+
+
+.new2{
+    margin-left:-350px;
+    margin-bottom:18px;
+}
